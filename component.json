@@ -1,0 +1,9 @@
+{
+  "name": "fixed-elements",
+  "repo": "segmentio/fixed-elements",
+  "description": "get all fixed elements",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
